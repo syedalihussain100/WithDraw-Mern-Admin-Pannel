@@ -1,0 +1,36 @@
+.delbtn{
+    color: red;
+    font-size: 1.2rem;
+}
+
+
+.card_container{
+ /* background-color: red !important; */
+}
+
+.cardImg{
+    width: 100%;
+    object-fit: contain;
+    height: 70vh;
+}
+
+
+.details_container{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.details_container h3{
+    font-size: 1.4rem;
+}
+
+.details_container p{
+    font-size: 2rem;
+    letter-spacing: 3px;
+    margin-top: 10px;
+}
+
+.details_container h4{
+    padding: 10px 0px;
+    font-size: 1.8rem;
+}
